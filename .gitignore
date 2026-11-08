@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# simulation data and results stay out of the repository
+*.xtc
+*.trr
+*.dcd
+*.tpr
+*.gro
+*.pdb
+*.cif
+*.cxs
+*.tsv
+*.npz
+out/
+out_*/
+contact_analysis*/
